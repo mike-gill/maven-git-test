@@ -1,4 +1,6 @@
 maven-git-test
 ==============
 
-Used for testing workflows using Git and Maven
+Used for testing various workflows using Git and Maven.
+
+Example change for second workspace.
